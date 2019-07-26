@@ -1,4 +1,4 @@
-FROM arm64v8/node:lts-alpine
+FROM node:lts-alpine
 
 ARG APP_VERSION=0.16.2
 
